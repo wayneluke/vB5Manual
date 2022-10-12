@@ -1,0 +1,17 @@
+more:
+  - name: API Documentation
+    ref: "/api"
+    external: true
+    icon: "brackets-curly"
+  - name: Release Notes
+    ref: "https://forum.vbulletin.com/forum/vbulletin-announcements/vbulletin-announcements_aa"
+    external: true
+    icon: "newspaper"
+  - name: Patches
+    ref: "https://members.vbulletin.com/patches.php"
+    external: true
+    icon: "shield-check"
+  - name: Language Packs
+    ref: "https://members.vbulletin.com/language_packs.php"
+    external: true
+    icon: "language"    

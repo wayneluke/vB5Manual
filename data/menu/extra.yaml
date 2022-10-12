@@ -1,0 +1,9 @@
+header:
+  - name: Forums
+    ref: https://forum.vbulletin.com
+    icon: comments
+    external: true
+  - name: API
+    ref: /api
+    icon: brackets-curly
+    external: true
